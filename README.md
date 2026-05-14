@@ -7,7 +7,7 @@
 - Performed customer segmentation for targeted marketing
 
 ### Tools Used:
-Python | SQL | Power BI | Excel
+Power BI | Power Query | DAX | Excel
 
 ### Key Output:
 <img width="430" height="241" alt="image" src="https://github.com/user-attachments/assets/e6b82303-5026-42b0-81e1-f89f2cbeecec" />
