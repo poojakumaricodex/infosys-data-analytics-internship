@@ -1,13 +1,23 @@
-## Infosys Springboard — Data Analytics Internship
-📅 Sep 2025 – Nov 2025
+## 📊 Food Trend Analysis Dashboard – Infosys Springboard
 
-### What I did:
-- Analyzed 2,000+ transaction records to find demand patterns
-- Built Power BI dashboards → reduced manual reporting by 20%
-- Performed customer segmentation for targeted marketing
+A data analytics dashboard project developed during the Infosys Springboard internship program to analyze food ordering trends, customer preferences, and sales performance.
 
-### Tools Used:
-Power BI | Power Query | DAX | Excel
+### 🔹 Key Highlights
+- Analyzed food ordering datasets to identify customer behavior and popular food categories.
+- Built interactive Power BI dashboards for sales trends, top-performing items, and revenue insights.
+- Used SQL and Excel for data cleaning, transformation, and analysis.
+- Created visual reports to support data-driven business decisions.
+- Improved dashboard storytelling and KPI tracking techniques.
+
+### 🛠️ Technologies Used
+`Power BI` `SQL` `Excel` `Data Visualization` `Dashboarding`
+
+### 📈 Features
+- Sales trend analysis
+- Customer preference insights
+- Revenue & category performance tracking
+- Interactive filters and KPI cards
+- Business-focused visual storytelling
 
 ### Key Output:
 <img width="430" height="241" alt="image" src="https://github.com/user-attachments/assets/e6b82303-5026-42b0-81e1-f89f2cbeecec" />
